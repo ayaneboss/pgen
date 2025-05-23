@@ -1,0 +1,21 @@
+
+{
+  "name": "digital-product-generator",
+  "version": "1.0.0",
+  "description": "AI-Powered Digital Product 2.0 Generator",
+  "private": true,
+  "scripts": {
+    "//": "No build scripts needed for current static frontend setup. Netlify functions are built by Netlify."
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.1"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^2.0.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}
